@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    
+<meta charset=“UTF-8”>
+    
+<title>Ray Walters</title>
+   
+</head>
+
+   <body>
+   <header role="banner">
+   <h1>Michigan Wolverines</h1>
+   <div id="pane">
+       <a href="http://espn.go.com/"><div class="top">Home</div></a>
+       <div class="top">Schedule</div>
+       <div class="top">Roster</div>
+       <div class="top">History</div>
+    </div>
+
+    <h2><u>GO BLUE!</u></h2>
+
+ </header>
+    <a href="http://www.espn.go.com/college-football/team/_/id/130/" target="_blank">
+        <img src="/Users/deemznrayray/Documents/Code/michigan.png" alt="Michigan" style="width:100px;height:100px;border:0;">
+    </a>
+    <main role="main">
+        <article role="article">
+    <section>
+    
+       <table>
+        <thead>
+           <tr>
+               <th colspan="6">Team Roster</th>
+           </tr>
+           <tr>
+               <th>#</th>
+               <th>Name</th>
+               <th>Pos.</th>
+               <th>Ht.</th>
+               <th>Wt.</th>
+               <th>Yr.</th>
+          </tr>
+        </thead>
+        <tbody>
+           <tr>
+               <td>2</td>
+               <td>Carlo Kemp</td>
+               <td>LB</td>
+               <td>6-3</td>
+               <td>250</td>
+               <td>Fr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+           <tr>
+               <td>5</td>
+               <td>Jabrill Peppers</td>
+               <td>S/CB</td>
+               <td>6-1</td>
+               <td>208</td>
+               <td>Jr.</td>
+           </tr>
+        </tbody>
+           
+      </table>
+   </section>
+    <section>
+    <p <abbr title="Michigan">MI </abbr></p>
+    </section>
+    </article>
+    </main>
+   
+   <footer>
+       <p> &trade; Ray Walters</p>
+       </footer>
+    </body>
+
+</html>
